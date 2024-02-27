@@ -32,9 +32,9 @@ Use the following command to start the development server.
 
 ## Gameplay
 
-..* Guess the secret word within the specified number of attempts.
+* Guess the secret word within the specified number of attempts.
 
-..* Enter your guesses and receive feedback on correct letters and their positions.
+* Enter your guesses and receive feedback on correct letters and their positions.
 
-..* Enjoy the challenge of solving the word puzzle!
+* Enjoy the challenge of solving the word puzzle!
 
